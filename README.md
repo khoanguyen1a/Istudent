@@ -2,9 +2,7 @@ I-Student
 
 A student workspace app built with React and Node.js/Express. Lets students manage files, get AI tutoring help, generate study materials, schedule sessions, and find study partners.
 
- Team
-Group 10 - The Nerds (Spring 2026)
-- Khoa Nguyen, Alvin Momoh, Tiya Tulu, Sineshaw Tesfaye, Preston Paris
+Khoa Nguyen
 
  Setup
 
